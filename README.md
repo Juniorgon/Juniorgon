@@ -5,72 +5,129 @@
 
 I build web applications, backend systems, and practical software solutions that solve real-world problems.
 
-Currently focused on improving my skills in backend development, software engineering, databases, and application security.
+Currently focused on improving my skills in backend development, software engineering, databases, DevOps, and application security.
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me
 
-💼 LinkedIn: https://linkedin.com/in/evandro-gonçalves-344b6b328
+<p align="left">
+  <a href="https://www.linkedin.com/in/evandro-gonçalves-344b6b328">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-💻 GitHub: https://github.com/Juniorgon
+  <a href="mailto:goncalves.jrrg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-📧 Email: goncalves.jrrg@gmail.com
+  <a href="https://github.com/Juniorgon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🧠 What I do
+## 🧠 What I Do
 
-🔹 Backend Development with Python and Django
+🧩 Backend Development with Python and Django
 
-🔹 REST APIs and Authentication Systems
+🔐 Authentication, Authorization and Access Control
 
-🔹 Database Design and Management
+🌐 REST APIs and Web Applications
 
-🔹 Web Application Development
+🗄️ Database Design and Management
 
-🔹 Software Engineering and Best Practices
+🐳 Learning Docker and DevOps Practices
 
-🔹 Learning Docker, DevOps, and Application Security
+🛡️ Learning Application Security
+
+📚 Continuous Learning and Software Engineering
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Backend
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-![REST API](https://img.shields.io/badge/-REST%20API-333333)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django" />
+</p>
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+</p>
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite" />
+</p>
 
 ### Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker%20(Learning)-333333?style=flat&logo=docker)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
+</p>
+
+### Learning
+- Docker
+- Software Engineering
+- Application Security
+- DevOps Practices
 
 ---
 
 ## 🚀 Featured Projects
 
-📌 Fiscal Management System
+### 📌 Fiscal Management System - GB
 
-Administrative and fiscal management platform focused on process organization and data management.
+Web platform focused on administrative and fiscal management, authentication, access control, and business process organization.
 
-📌 Law Office Management System
+**Technologies:** Python, Django, PostgreSQL, Git, GitHub
 
-Web application for managing clients, lawyers, legal cases, financial information, and tasks.
+---
 
-📌 Academic Web Development Projects
+### 📌 Law Office Management System
 
-Responsive websites and backend applications developed during my technical education.
+Management platform for clients, lawyers, legal cases, tasks, contracts, and financial information with role-based permissions.
+
+**Technologies:** Python, Django, PostgreSQL, HTML, CSS
+
+---
+
+### 📌 Academic Web Development Projects
+
+Collection of responsive websites and web applications developed during my technical education.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Juniorgon&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juniorgon&layout=compact&langs_count=8&theme=github_dark"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Juniorgon&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Juniorgon/Juniorgon/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -90,7 +147,7 @@ Responsive websites and backend applications developed during my technical educa
 
 🏐 Volleyball player
 
-📚 Continuous learner passionate about technology
+📚 Passionate about technology and continuous learning
 
 ---
 
@@ -102,10 +159,10 @@ Responsive websites and backend applications developed during my technical educa
 
 ## 🤝 Open to
 
-🚀 Internships
+🚀 Internship Opportunities
 
-💼 Junior opportunities
+💼 Junior Developer Positions
 
-🤝 Collaborations and open-source projects
+🤝 Collaborations and Open Source Projects
 
-💡 New ideas and challenges
+💡 New Ideas and Challenges
