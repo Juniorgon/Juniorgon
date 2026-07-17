@@ -1,77 +1,111 @@
-# Hi, I'm Evandro Junior 👋
+# Hi 👋, I'm Evandro Junior
 
-🎓 Information Technology for Internet Student at IFRS – Campus Veranópolis
+### 🚀 Information Technology Student | Backend Developer in Training
+### 🇧🇷 Brazil
 
-💻 Aspiring Backend & Web Developer passionate about building practical and secure solutions.
+I build web applications, backend systems, and practical software solutions that solve real-world problems.
 
-## About Me
+Currently focused on improving my skills in backend development, software engineering, databases, and application security.
 
-I am currently studying Information Technology for Internet and developing my skills in web development, backend systems, databases, APIs, and software security.
+---
 
-I enjoy creating real-world projects that solve problems, improve processes, and provide value to users. My main interests include backend development, system architecture, REST APIs, automation, and cybersecurity.
+## 🌐 Connect with me
 
-I am constantly learning new technologies and improving my technical and professional skills through academic and personal projects.
+💼 LinkedIn: https://linkedin.com/in/evandro-gonçalves-344b6b328
 
-## Technologies & Tools
+💻 GitHub: https://github.com/Juniorgon
 
-- Python
-- Django
-- HTML
-- CSS
-- Bootstrap
-- Git & GitHub
-- Docker
-- PostgreSQL
-- SQLite
-- REST APIs
-- C Programming
+📧 Email: goncalves.jrrg@gmail.com
 
-## Current Focus
+---
 
-🔹 Backend Development with Python & Django
+## 🧠 What I do
+
+🔹 Backend Development with Python and Django
+
+🔹 REST APIs and Authentication Systems
 
 🔹 Database Design and Management
 
-🔹 API Development
+🔹 Web Application Development
 
-🔹 Cybersecurity Fundamentals
+🔹 Software Engineering and Best Practices
 
-🔹 Software Engineering Best Practices
+🔹 Learning Docker, DevOps, and Application Security
 
-## Featured Projects
+---
 
-📌 Legal Office Management System
+## 🛠️ Tech Stack
 
-A web platform designed to manage clients, lawyers, legal cases, tasks, and financial information with role-based access control.
+### Backend
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![REST API](https://img.shields.io/badge/-REST%20API-333333)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+
+### Tools & DevOps
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker%20(Learning)-333333?style=flat&logo=docker)
+
+---
+
+## 🚀 Featured Projects
 
 📌 Fiscal Management System
 
-Development of administrative and fiscal management features, database organization, authentication, and business process automation.
+Administrative and fiscal management platform focused on process organization and data management.
 
-📌 Academic Backend Projects
+📌 Law Office Management System
 
-REST APIs, authentication systems, database integration, and web application architecture.
+Web application for managing clients, lawyers, legal cases, financial information, and tasks.
 
-## Soft Skills
+📌 Academic Web Development Projects
 
-- Problem Solving
-- Teamwork
-- Communication
-- Organization
-- Fast Learning
-- Responsibility
-- Adaptability
+Responsive websites and backend applications developed during my technical education.
 
-## Goals
+---
 
-My goal is to grow as a software developer, contribute to meaningful projects, and continuously improve my technical expertise while delivering value through technology.
+## 🎯 Current Goals
 
-## Contact
+- Improve my backend development skills
+- Learn more about Docker and DevOps
+- Deepen my knowledge of software architecture
+- Build scalable and secure applications
+- Contribute to meaningful projects
 
-📍 Veranópolis, RS - Brazil
+---
 
-💼 LinkedIn: www.linkedin.com/in/evandro-gonçalves-344b6b328
+## 🎵 Beyond Code
 
-💻 GitHub: @Juniorgon
+🎼 Orchestra member and musician
 
-📧 Email: goncalves.jrrg@gmail.com
+🏐 Volleyball player
+
+📚 Continuous learner passionate about technology
+
+---
+
+## 💭 Philosophy
+
+> "Technology should solve real problems, create opportunities, and generate value for people and businesses."
+
+---
+
+## 🤝 Open to
+
+🚀 Internships
+
+💼 Junior opportunities
+
+🤝 Collaborations and open-source projects
+
+💡 New ideas and challenges
